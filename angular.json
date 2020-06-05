@@ -123,5 +123,8 @@
       }
     }
   },
-  "defaultProject": "Covid19-angular"
+  "defaultProject": "Covid19-angular",
+  "cli": {
+    "analytics": false
+  }
 }
